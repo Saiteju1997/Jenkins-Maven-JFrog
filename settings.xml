@@ -1,0 +1,16 @@
+<settings>
+	<servers>
+		<server>
+                        <!-- server id should be equal to repository id -->
+			<id>central</id>
+                        <!-- default nexus deploy user -->
+			<username>admin</username>
+			<password>Steju$391420</password>
+		</server>
+		<server>
+                        <id>snapshots</id>
+                        <username>admin</username>
+                        <password>Steju$391420</password>
+                </server>
+	</servers>
+</settings>
